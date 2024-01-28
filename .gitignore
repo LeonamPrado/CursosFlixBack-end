@@ -1,4 +1,4 @@
-node_module/
+node_modules/
 uploads/videos/
 public/thumbnails
 .adminjs
